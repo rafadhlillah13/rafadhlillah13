@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rafadhlillah13
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m Freshman Data Science
+- 🌱 I’m currently learning Data Science at Institut Teknologi Sumatera
 - 📫 How to reach me on Linked in : RAFI FADHLILLAH or instagram @rafadhlillah13 
 
 <!---
