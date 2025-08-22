@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1> Hi there, 𝙄'𝙢 <b>𝙍𝙖𝙛𝙞 𝙁𝙖𝙙𝙝𝙡𝙞𝙡𝙡𝙖𝙝</b> <img src="https://github.com/rafadhlillah13/rafadhlillah13/blob/main/371756374-0bf134e2-c0ba-488b-bbd4-9300f2f77871.gif" width="40"></h1>
+<h1> Hi there, 𝙄'𝙢 <b>𝙍𝙖𝙛𝙞 𝙁𝙖𝙙𝙝𝙡𝙞𝙡𝙡𝙖𝙝</b> <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="50"></h1>
 
 <h3>🚀 <i>Early-Career Data & AI</i> | Aspiring <b>Data Analyst · Data Scientist · AI/ML Engineer</b></h3>  
 <p>💡 Passionate About <b>Turning Data into Insights & Action</b></p>
