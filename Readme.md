@@ -10,7 +10,7 @@
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafifadhlillah5@gmail.com)  
 
 <div align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/371756374-0bf134e2-c0ba-488b-bbd4-9300f2f77871.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTU4NjkzMzksIm5iZiI6MTc1NTg2OTAzOSwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzQtMGJmMTM0ZTItYzBiYS00ODhiLWJiZDQtOTMwMGYyZjc3ODcxLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODIyVDEzMjM1OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTEyZWJhZThlYzEyNGM5ZTg1YzE1MzEzNjIzZGY3NTFmZDkwM2I2YTllOThjY2RmN2E2YWNkYmJkYzY3OTM0NjEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.8GU3RMiBe_5PgCE80Csyyl_dcETIElBy9_aIUKLI9NE" width="300" />
+  <img src="371756374-0bf134e2-c0ba-488b-bbd4-9300f2f77871.gif" width="300" />
 </div>
 
 ---
